@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280025700278",
+    "project_id": "bmi-calc-playstore",
+    "storage_bucket": "bmi-calc-playstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280025700278:android:3c486c9b8505dd4b7c9317",
+        "android_client_info": {
+          "package_name": "com.angleone.bmical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACh-nyVQXg5aWzOQoYqivMKke9hbhWEck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

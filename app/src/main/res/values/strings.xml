@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calculator"><font color="#111111"> BMI </font> CALCULATOR</string>
+</resources>
